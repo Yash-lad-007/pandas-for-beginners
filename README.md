@@ -9,7 +9,7 @@ It contains simple examples to help you understand how to work with data using P
 Pandas is a **Python library** used for **data analysis and manipulation**.  
 It makes working with structured data (tables, CSVs, Excel, databases) easy and powerful. 
 
----
+--- 
 
 ## 📂 Repository Contents
 - `pandas_basics.py` → A simple script to:
