@@ -1,4 +1,4 @@
-# Pandas Basics 🐼
+ # Pandas Basics 🐼
  
 This repository is a **beginner-friendly guide** to learning the Pandas library in Python.  
 It contains simple examples to help you understand how to work with data using Pandas. 
